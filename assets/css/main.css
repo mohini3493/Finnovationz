@@ -3380,4 +3380,17 @@ text-decoration-line: underline;
 .this-course .col-lg-8, .this-course .col-lg-4{
   display: none;
 }
+.Recommended .yellowbox img {
+  margin-right: 50px;
+}
+.Recommended .yellowbox {
+  padding: 17px 25px;
+}
+.Recommended .yellowbox h3 {
+  font-size: 24px;
+  margin-right: 0px;
+}
+.Recommended .yellowbox p {
+  font-size: 18px;
+}
 }
